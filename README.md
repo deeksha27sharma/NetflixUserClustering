@@ -69,5 +69,5 @@ This helps in:
 ```bash
 1. Clone this repo
 2. Install dependencies (pandas, scikit-learn, matplotlib, seaborn)
-3. Run the notebook `netflix_clustering.ipynb`
+3. Run the notebook `NetflixUserClustering.ipynb`
 4. Explore results and plots!
